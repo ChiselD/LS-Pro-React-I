@@ -1,0 +1,10 @@
+.mypic {
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+.mypic p {
+  max-width: 50%;
+  margin: 0 auto;
+  font-family: Verdana, sans-serif;
+}

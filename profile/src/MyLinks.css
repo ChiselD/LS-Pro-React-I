@@ -1,0 +1,14 @@
+.linkbox {
+  max-width: 180px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: whitesmoke;
+}
+
+.linkbox a {
+  text-decoration: none;
+}
+
+.linkbox a:hover {
+  text-decoration: underline;;
+}
